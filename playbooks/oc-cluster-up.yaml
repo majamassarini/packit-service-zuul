@@ -2,4 +2,4 @@
 - name: Run oc_cluster_up
   hosts: all
   roles:
-    - oc_cluster_up
+    - role: oc_cluster_up
