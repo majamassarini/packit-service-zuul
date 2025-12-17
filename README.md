@@ -1,3 +1,11 @@
+<!-- prettier-ignore -->
+> [!WARNING]
+> **This repository is no longer in use and the documentation below is outdated.**
+>
+> For any changes, please use the following repositories:
+> - https://gitlab.com/softwarefactory-project/centosinfra-prod/packit-service-config
+> - https://gitlab.com/softwarefactory-project/centosinfra-prod/packit-service-jobs
+
 # packit-service-zuul
 
 ## About Zuul CI - softwarefactory-project.io
